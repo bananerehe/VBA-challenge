@@ -10,12 +10,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
 
-### Files
-
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
-
 ### Stock market analyst
 
 ![stock Market](Images/stockmarket.jpg)
